@@ -25,6 +25,9 @@
     "todo-s-e2e": {
       "tags": [],
       "implicitDependencies": ["todo-s"]
+    },
+    "api": {
+      "tags": []
     }
   }
 }
